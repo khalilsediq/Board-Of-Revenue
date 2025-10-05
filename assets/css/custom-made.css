@@ -18,12 +18,12 @@
   border-radius: 20px;
   padding: 20px 20px 0px 0px;
 font-size: 3rem;
-text-align: center;
-color: rgb(186, 209, 149);
+/* text-align: center; */
+color: rgb(255, 255, 255);
 }
 .dt_item_content{
-    text-align: center;
-color: green;
+    /* text-align: center; */
+color: rgb(129, 253, 129);
 font-size: 3.5rem ;
         /* background-color: orangered; */
     }
