@@ -1,0 +1,29 @@
+ .custom-log-size {
+     width: 120px;
+ }
+
+ #custom-bg {
+     background-color: #95d666;
+
+     
+ }
+        #text-custom-edit {
+            color: #fe5716;
+        }
+    .dt_item_title{
+        
+              
+        /* background-color: rgb(86, 143, 103); */
+  /* width: 200px; */
+  border-radius: 20px;
+  padding: 20px 20px 0px 0px;
+font-size: 3rem;
+text-align: center;
+color: rgb(186, 209, 149);
+}
+.dt_item_content{
+    text-align: center;
+color: green;
+font-size: 3.5rem ;
+        /* background-color: orangered; */
+    }
